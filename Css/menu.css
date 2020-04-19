@@ -154,12 +154,3 @@ span {
 #projects {
   margin-top: 23%;
 }
-
-@media (min-width: 992px) {
-  #about {
-    margin-top: 38.5%;
-  }
-  #projects {
-    margin-top: 28%;
-  }
-}
